@@ -1,0 +1,100 @@
+
+.container{
+    bottom: 100px;
+    background-color: aquamarine;
+    border-radius: 100px;
+    height: 2000px;
+    width: 2000px;
+    display: inline-block;
+    text-align: center;
+    display: flex;
+    display: inline-flex;
+    justify-content: center;
+    display: flexbox;
+    border: 100px;
+    gap: 10px;
+    display: inline-flexbox;
+}
+.primeiro{
+bottom: 100px;
+background-color: rgb(249, 31, 6);
+border-radius: 100px;
+height: 300px;
+width: 300px;
+display: inline-block;
+text-align: center;
+display: flex;
+display: inline-flex;
+justify-content: center;
+display: flexbox;
+border: 100px;
+gap: 10px;
+display: inline-flexbox;
+}
+.segundo{
+bottom: 100px;
+background-color: rgb(204, 200, 85);
+border-radius: 100px;
+height: 300px;
+width: 300px;
+display: inline-block;
+text-align: center;
+display: flex;
+display: inline-flex;
+justify-content: center;
+display: flexbox;
+border: 100px; 
+gap: 10px;
+display: inline-flexbox;
+}
+
+.terceiro{
+bottom: 100px;
+background-color: rgb(246, 46, 149);
+border-radius: 100px;
+height: 300px;
+width: 300px;
+display: inline-block;
+text-align: center;
+display: flex;
+display: inline-flex;
+justify-content: center;
+display: flexbox;
+border: 100px;
+gap: 10px;
+display: inline-flexbox;
+}
+
+.quarto{
+bottom: 100px;
+background-color: rgb(62, 32, 214);
+border-radius: 100px;
+height: 300px;
+width: 300px;
+display: inline-block;
+text-align: center;
+display: flex;
+display: inline-flex;
+justify-content: center;
+display: flexbox;
+border: 100px;
+gap: 10px;
+display: inline-flexbox;
+}
+
+.quinto{
+bottom: 100px;
+background-color: rgb(7, 16, 6);
+border-radius: 100px;
+height: 300px;
+width: 300px;
+display: inline-block;
+text-align: center;
+display: flex;
+display: inline-flex;
+justify-content: center;
+display: flexbox;
+border: 100px;
+gap: 10px;
+display: inline-flexbox;
+}
